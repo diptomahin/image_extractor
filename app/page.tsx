@@ -408,6 +408,7 @@ export default function Home() {
           </section>
         </div>
       </section>
+      
       <footer className="border-t border-[#d8d2c4] bg-[#17212b] px-5 py-6 text-white sm:px-8 lg:px-10">
         <div className="mx-auto flex w-full max-w-7xl flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
           <div>
